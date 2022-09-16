@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developement 
 - 🌱 I’m currently learning Artifical intelligence, machine learning, javascript, swift, c# and c++
 - 💞️ I’m looking to collaborate on game developement
-- 📫 Reach me at whatshapp at +1(469)8951889 
+- 📫 Reach me at +1(469)8951889 on WhatsApp or at aadit.kumar#9841 on discord.
 
 <!---
 aaditkumar2009/aaditkumar2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
