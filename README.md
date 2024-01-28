@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaditkumar2009
 - 👀 I’m interested in software developement 
-- 🌱 I’m currently learning Artifical intelligence, machine learning, javascript, swift, c# and c++
+- 🌱 I’m currently learning Java, kotlin, machine learning, javascript, swift,.
 - 💞️ I’m looking to collaborate on game developement
 - 📫 Reach me at +1(213)401-9358 on WhatsApp or at cbaadit on discord.
 
